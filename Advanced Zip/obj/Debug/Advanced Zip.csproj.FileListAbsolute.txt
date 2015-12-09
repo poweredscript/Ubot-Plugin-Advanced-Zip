@@ -1,0 +1,20 @@
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\obj\Debug\Advanced Zip.csprojResolveAssemblyReference.cache
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\obj\Debug\Advanced_Zip.Properties.Resources.resources
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\obj\Debug\Advanced Zip.csproj.GenerateResource.Cache
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\bin\Debug\Advanced Zip.dll.config
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\bin\Debug\Advanced Zip.dll
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\bin\Debug\Advanced Zip.pdb
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\bin\Debug\UBotPlugin.dll
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\obj\Debug\Advanced Zip.dll
+D:\IM\Visual Studio 2013\Projects\Advanced Zip\Advanced Zip\obj\Debug\Advanced Zip.pdb
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\bin\Debug\Advanced Zip.dll.config
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\bin\Debug\Advanced Zip.dll
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\bin\Debug\Advanced Zip.pdb
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\bin\Debug\UBotPlugin.dll
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\obj\Debug\Advanced Zip.csprojResolveAssemblyReference.cache
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\obj\Debug\Advanced_Zip.Properties.Resources.resources
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\obj\Debug\Advanced Zip.csproj.GenerateResource.Cache
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\obj\Debug\Advanced Zip.dll
+D:\IM\Visual Studio 2013\Projects\Advanced Zip - Free\Advanced Zip\obj\Debug\Advanced Zip.pdb
